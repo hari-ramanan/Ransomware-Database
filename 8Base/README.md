@@ -1,6 +1,6 @@
 Extension(s): 
 ```
-id[User_ID].[recovery8files@onionmail.org]
+.id[User_ID].[recovery8files@onionmail.org]
 ```
 Ransom Note(s): 
 ```
