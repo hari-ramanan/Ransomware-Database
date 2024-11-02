@@ -6,8 +6,6 @@
 </p>
 <h1 align="center">Archive password: infected</h1>
 <p align="center">
-<br>
-
 <p align="center">
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
 <br>
