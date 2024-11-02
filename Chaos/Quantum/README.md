@@ -5,6 +5,7 @@ Extension(s):
 Ransom Note(s): 
 ```
 wowie.txt
+Wallpaper
 ```
 ![70mgcej6c](https://github.com/user-attachments/assets/52aaa60a-38fd-42c9-88cf-c228bfdad016)
 ```
