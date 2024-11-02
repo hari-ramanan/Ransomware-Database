@@ -1,6 +1,6 @@
 Extension(s): 
 ```
-.Original_Extension[staff@vx-underground.org][1].[User_ID]
+.Original_Extension[staff@vx-underground.org][Number].[User_ID]
 ```
 Ransom Note(s): 
 ```
