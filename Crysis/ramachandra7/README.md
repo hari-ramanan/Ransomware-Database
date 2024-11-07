@@ -5,6 +5,7 @@ Extension(s):
 Ransom Note(s): 
 ```
 How to decrypt your files.txt
+Wallpaper
 ```
 ![How to decrypt your files](https://github.com/user-attachments/assets/7d173f86-2d3c-4a9f-893b-5c22cd912e29)
 ```
