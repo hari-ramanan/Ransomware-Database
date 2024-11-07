@@ -5,6 +5,7 @@ Extension(s):
 Ransom Note(s): 
 ```
 CryptBIT-restore-files.txt
+Wallpaper
 ```
 ![qm1q8w0eh](https://github.com/user-attachments/assets/dc602625-7218-44a7-86cb-e44d0856e8ed)
 ```
