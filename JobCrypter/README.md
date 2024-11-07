@@ -1,3 +1,8 @@
+Note(s):
+```
+This ransomware will exit due to the e-mail server being offline.
+If you want this to encrypt files again, please patch it in dnSpy.
+```
 Extension(s): 
 ```
 .locked
