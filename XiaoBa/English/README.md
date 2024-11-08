@@ -1,6 +1,6 @@
 Extension(s): 
 ```
-.瓷靡反分勻凶[QQ-3047861776].XiaoBa
+.Encrypted[BaYuCheng@yeah.net].XiaoBa
 ```
 Ransom Note(s): 
 ```
