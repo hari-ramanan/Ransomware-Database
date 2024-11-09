@@ -1,11 +1,12 @@
 Extension(s): 
 ```
-.瓷靡反分勻凶[QQ-3047861776].XiaoBa
+.病名は愛だった[QQ-3047861776].XiaoBa
 ```
 Ransom Note(s): 
 ```
+_病名は愛だった_.hta
 Popup Window
 Wallpaper
 ```
-![ransomnote](https://github.com/amdfanboi/rnsmdb/blob/99ebe8e2fd26234082497a61a38c891cf22f9d05/XiaoBa/Chinese/ransomnote.png)
-![wallpaper](https://github.com/amdfanboi/rnsmdb/blob/99ebe8e2fd26234082497a61a38c891cf22f9d05/XiaoBa/Chinese/wallpaper.bmp)
+![XiaoBa_1](https://github.com/user-attachments/assets/f3475b95-1641-4ae6-b1af-4322836cd300)
+![XiaoBa_2](https://github.com/user-attachments/assets/a71144a7-284c-4b98-a4fd-028275a1f9ba)
