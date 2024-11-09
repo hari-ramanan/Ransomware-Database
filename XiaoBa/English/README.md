@@ -7,5 +7,7 @@ Ransom Note(s):
 Popup Window
 Wallpaper
 ```
-![ransomnote](https://github.com/amdfanboi/rnsmdb/blob/06d69d5b06f2490e89661c46673c6f485cd81e19/XiaoBa/English/ransomnote.PNG)
-![wallpaper](https://github.com/amdfanboi/rnsmdb/blob/06d69d5b06f2490e89661c46673c6f485cd81e19/XiaoBa/English/_XiaoBa_Info_.bmp)
+![ransomnote](https://github.com/user-attachments/assets/887c03b3-3cbe-47b3-a504-e497b56f873d)
+![_XiaoBa_Info_](https://github.com/user-attachments/assets/ec474d55-c35a-4f2e-962b-24967417c48d)
+
+
