@@ -7,7 +7,7 @@ Ransom Note(s):
 [Random]-readme.txt
 Wallpaper
 ```
-
+![DebugVar](https://github.com/user-attachments/assets/460c7721-2d21-451c-a661-4c431d69cfb7)
 ```
 ---=== Welcome. Again. ===---
 
