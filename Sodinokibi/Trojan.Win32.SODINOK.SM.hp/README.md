@@ -7,7 +7,7 @@ Ransom Note(s):
 [Random]-HOW-TO-DECRYPT.txt
 Wallpaper
 ```
-
+![INF](https://github.com/user-attachments/assets/7688fe18-39ae-4e0c-be71-1da5e4daf1ca)
 ```
 --=== Welcome. Again. ===---
 
