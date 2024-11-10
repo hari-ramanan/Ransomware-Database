@@ -8,6 +8,7 @@ HOW TO DECRYPT FILES.txt
 Popup Window
 ```
 ![Koeserg](https://github.com/user-attachments/assets/fcf0d0e9-ab2e-493d-8bb9-ddb1e9cb8a2a)
+![Koeserg_2](https://github.com/user-attachments/assets/e909dbf1-379e-4912-b6fb-8ef34519a195)
 ```
 Attention! All your files are encrypted!
 You are using unlicensed programms!
