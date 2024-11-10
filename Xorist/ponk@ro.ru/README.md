@@ -8,6 +8,7 @@ Ransom Note(s):
 Popup Window
 ```
 ![Ponk](https://github.com/user-attachments/assets/6f273d22-79e5-481b-9ae6-a7314e568ded)
+![Ponk_2](https://github.com/user-attachments/assets/aa264214-86e7-4c71-bc33-e2a436390c83)
 ```
 Внимание! Все Ваши файлы зашифрованы!
 Расшифровка обойдется Вам всего в 100 USD
