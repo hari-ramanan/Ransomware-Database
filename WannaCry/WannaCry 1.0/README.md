@@ -8,7 +8,7 @@ Ransom Note(s):
 !Please Read Me!.txt
 Popup Window
 ```
-
+![WannaCry1](https://github.com/user-attachments/assets/30aa9fc3-b47c-4c85-b5c9-7503cb6d6be4)
 ```
 Q:  What's wrong with my files?
 
