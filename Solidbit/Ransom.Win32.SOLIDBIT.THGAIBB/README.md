@@ -8,7 +8,8 @@ RESTORE-MY-FILES.txt
 Popup Window
 Wallpaper
 ```
-
+![Ransom Win32 SOLIDBIT THGAIBB](https://github.com/user-attachments/assets/61f03203-1089-4cd9-a542-17fef8b77ad7)  
+![Wall](https://github.com/user-attachments/assets/5a141707-e0dc-4f08-b916-184d6699c512)  
 ```
 ***SOLIDBIT RANSOMWARE***
 
