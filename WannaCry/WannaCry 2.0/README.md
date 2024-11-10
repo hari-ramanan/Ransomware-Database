@@ -10,7 +10,8 @@ Ransom Note(s):
 Popup Window
 Wallpaper
 ```
-
+![WannaCry2](https://github.com/user-attachments/assets/710b7b51-67ea-4fbf-8e0c-007e278a3a6b)  
+![@WanaDecryptor@](https://github.com/user-attachments/assets/5aa0af6e-5ad9-4c93-9aa6-2a531a9c9cc4)  
 ```
 Q:  What's wrong with my files?
 
