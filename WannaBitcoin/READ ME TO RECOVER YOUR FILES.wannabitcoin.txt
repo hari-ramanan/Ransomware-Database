@@ -1,0 +1,10 @@
+All of your files have been encrypted by WannaBitcoin.
+
+To dercrypt your files 1 to: [redacted]
+After you sent 1 ETH, please click on the Check Payment button.
+
+Encryption Log:
+----------------------------------------
+
+[list of encrypted files]
+
