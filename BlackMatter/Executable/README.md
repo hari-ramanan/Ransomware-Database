@@ -7,6 +7,7 @@ Ransom Note(s):
 [Random].README.txt
 Wallpaper
 ```
+![002](https://github.com/user-attachments/assets/3708050d-d13f-4813-b74f-ba038fbd268a)
 ```
       ~+                                       
                *       +
