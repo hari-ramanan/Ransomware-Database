@@ -9,7 +9,8 @@ _R_E_A_D___T_H_I_S___[Random]_.txt
 Popup Window
 Wallpaper
 ```
-![CRBR](https://github.com/user-attachments/assets/5574379a-89cb-4c18-8874-dc43ec92706c)
+![CRBR](https://github.com/user-attachments/assets/5574379a-89cb-4c18-8874-dc43ec92706c)  
+![Cleaned5 0](https://github.com/user-attachments/assets/1aa3fff6-14de-426e-afe4-c856a1efdc78)  
 ```
  
  CERBER RANSOMWARE
