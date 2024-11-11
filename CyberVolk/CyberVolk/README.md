@@ -6,8 +6,10 @@ Ransom Note(s):
 ```
 CyberVolk_ReadMe.txt
 Popup Window
+Wallpaper
 ```
-![volk](https://github.com/user-attachments/assets/e042ad87-9a3a-41d5-b65d-c4eb2ce80168)
+![volk](https://github.com/user-attachments/assets/e042ad87-9a3a-41d5-b65d-c4eb2ce80168)  
+![tmp](https://github.com/user-attachments/assets/481717d7-4da1-4d7f-b310-87ce3f23a184)  
 ```
 Greetings.
  All your files have been encrypted by CyberVolk ransomware.
