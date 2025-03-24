@@ -32,7 +32,7 @@ Wallpaper
 
 >>> How to contact with us? 
    1. Download and install TOR Browser (https://www.torproject.org/).
-   2. Open http://supp24yy6a66hwszu2piygicgwzdtbwftb76htfj7vnip3getgqnzxid.onion/User_ID
+   2. Open http://supp24yy6a66hwszu2piygicgwzdtbwftb76htfj7vnip3getgqnzxid.onion/O1E1HJ9H8JNKNNHC8
   
 >>> Warning! Recovery recommendations.  
    We strongly recommend you to do not MODIFY or REPAIR your files, that will damage them.
