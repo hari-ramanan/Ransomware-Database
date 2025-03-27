@@ -7,7 +7,7 @@ Ransom Note(s):
 instructions.txt
 Wallpaper
 ```
-![z8jab4l2b](https://github.com/user-attachments/assets/2ad1c663-3a07-4c13-8768-06fe225c24c4)
+![vldiw8qrr](https://github.com/user-attachments/assets/8623dfb4-79ab-4d8a-b0d1-b351afdffea1)
 ```
 hello.
 we are Ford, we encrypted our files because you are not aware of what you are downloading from the internet
