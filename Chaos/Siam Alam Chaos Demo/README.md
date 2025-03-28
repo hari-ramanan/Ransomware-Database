@@ -4,14 +4,14 @@ Extension(s):
 ```
 Ransom Note(s): 
 ```
-instructions.txt
+bruh.txt
 Wallpaper
 ```
 ![vldiw8qrr](https://github.com/user-attachments/assets/8623dfb4-79ab-4d8a-b0d1-b351afdffea1)
 ```
-hello.
-we are Ford, we encrypted our files because you are not aware of what you are downloading from the internet
-If you want to encrypt the files, you have to pay us
+Hello! all your files have been encrypted. Cry about it. There's nothing you can do now. You should've been careful while downloading from untrusted sources on the internet.
 
-The price of bitcoin is 0000.20
+JK! You can recover your files by sending 1$ to this btc address: asdffgkhfjdlqewiuowasdjfkdshfgjshgjods6969420
+
+
 ```
