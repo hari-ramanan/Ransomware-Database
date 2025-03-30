@@ -2,4 +2,5 @@ Ransom Note(s):
 ```
 Popup Window (Censored)
 ```
-![XBlocker](https://github.com/user-attachments/assets/1fc12a5a-8631-4ef2-8f42-5966399b25bd)
+![FixedImage](https://github.com/user-attachments/assets/77bd0281-2391-4a79-8e36-0ad0742a65eb)
+
