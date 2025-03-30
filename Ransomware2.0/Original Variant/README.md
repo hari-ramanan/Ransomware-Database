@@ -2,4 +2,4 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![Original](https://github.com/user-attachments/assets/2faf22ff-b951-4970-b767-8c95bd3e53a7)
+![RS2](https://github.com/user-attachments/assets/c749f30f-f303-415f-8fff-5c136e2b1b87)
