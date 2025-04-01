@@ -17,4 +17,4 @@ readme-3.txt
 readme-4.txt
 readme.txt
 ```
-![Info](https://github.com/user-attachments/assets/326cc3cc-9633-4049-ac45-484f5769ddf4)
+![1](https://github.com/user-attachments/assets/788c95cb-7788-40d8-8590-0900d62c4306)
