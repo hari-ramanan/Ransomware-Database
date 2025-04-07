@@ -7,7 +7,7 @@ Ransom Note(s):
 RESTORE-FILES![Random].txt
 Wallpaper
 ```
-![Wallpaper](https://github.com/user-attachments/assets/9f9e1d6b-e69c-40a2-a699-d2661e6a0a37)
+![Fix_Image](https://github.com/user-attachments/assets/955aad85-09c2-47c0-bc25-d98c925566d8)
 ```
 -------------------------------YOU FILES ARE ENCRYPTED by Comrade Circle!---------------------------------------------------
 ----------------------------------------You personal ID---------------------------------------------------------------------
