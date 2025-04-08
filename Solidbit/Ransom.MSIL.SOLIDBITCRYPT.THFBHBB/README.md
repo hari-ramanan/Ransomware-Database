@@ -6,8 +6,10 @@ Ransom Note(s):
 ```
 RESTORE-MY-FILES.txt
 Popup Window
+Wallpaper
 ```
-![Ransom MSIL SOLIDBITCRYPT THFBHBB](https://github.com/user-attachments/assets/ac7aaaaa-7aa5-495b-8afa-e2f500c48578)
+![Ransom MSIL SOLIDBITCRYPT THFBHBB](https://github.com/user-attachments/assets/ac7aaaaa-7aa5-495b-8afa-e2f500c48578)  
+![Wall](https://github.com/user-attachments/assets/5a141707-e0dc-4f08-b916-184d6699c512)  
 ```
 ***SOLIDBIT RANSOMWARE***
 
