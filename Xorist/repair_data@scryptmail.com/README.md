@@ -4,7 +4,7 @@ Extension(s):
 ```
 Ransom Note(s): 
 ```
-HOW TO DECRYPT FILES.tx
+HOW TO DECRYPT FILES.txt
 Wallpaper
 ```
 ![jklnoabdeghjkmnp](https://github.com/user-attachments/assets/584c51d8-04e1-4d8b-935e-195cfcad8bf2)
