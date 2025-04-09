@@ -7,7 +7,7 @@ Ransom Note(s):
 Crypted.txt
 Popup Window
 ```
-![GPCode_AM_Popup](https://github.com/user-attachments/assets/0b1a49b6-bf31-43ea-ba80-1e53479b5edf)
+![111](https://github.com/user-attachments/assets/4ca7f918-1599-4571-aaa6-20c0690867f9)
 ```
 Ваши файлы зашифрованы!
 Дешифратор стоит 10$!
